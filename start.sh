@@ -1,8 +1,8 @@
 #!/bin/sh
 
 # configs
-AUUID=33bbada8-e663-4926-a545-e65224042889
-CADDYIndexPage=https://raw.githubusercontent.com/lkjuyhjt/heroku-CADDYIndexPage/main/amazon/index.html
+AUUID=a0bd2644-1ef8-4a6c-8841-74ebc2cda379
+CADDYIndexPage=https://www.microsoftstore.com
 CONFIGCADDY=https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
